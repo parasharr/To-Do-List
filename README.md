@@ -20,7 +20,9 @@ ii) Navigate to the project directory.
 iii) Open the 'index.html' file in your browser to start using the app.
 
 **Usage
+
 To use the To-Do List App:
+
 i) Type a task into the input box;
 
 ii) Click the 'Add' button to add the task to the list.
