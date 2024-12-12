@@ -29,5 +29,5 @@ To use the To-Do List App:
 - Click the 'x' button next to a task to remove it from the list.
 
 ## Acknowledgements
-- Icon made by Icon Author from Icon Source
+- Icon made by Icon Author from Font Awesome
 - This project was inspired by the need for simple to-do list app.
