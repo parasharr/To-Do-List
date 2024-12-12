@@ -3,6 +3,9 @@
 **Description**
 This To-Do List App is a simple,elegant task management tool designed to help users organize their daily tasks. With an intuitive interface and easy-to-use features, users can add,view and delete tasks with a single click.
 
+## Project Preview
+**URL**: https://todo-listbyp.netlify.app/
+
 ## Features
 - **Add Tasks**: Enter a task in the input box and click 'Add' to see it appear in the list.
 - **Delete Tasks**: Each task comes with a close button to remove it from the list.
